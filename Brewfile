@@ -1,0 +1,36 @@
+tap 'caskroom/cask'
+
+brew 'composer'
+brew 'git'
+brew 'mariadb'
+brew 'node'
+brew 'php'
+brew 'phplint'
+brew 'python'
+brew 'python@3'
+brew 'yarn'
+
+cask 'appcleaner'
+cask 'cheatsheet'
+cask 'etcher'
+cask 'filezilla'
+cask 'firefox'
+cask 'github'
+cask 'google-chrome'
+cask 'google-drive-file-stream'
+cask 'microsoft-office'
+cask 'monitorcontrol'
+cask 'numi'
+cask 'postman'
+cask 'sequel-pro'
+cask 'spotify'
+cask 'steam'
+cask 'sublime-merge'
+cask 'sublime-text'
+cask 'teamviewer'
+cask 'vlc'
+cask 'whatsapp'
+
+mas 'monosnap', id: 540348655
+mas 'Gravit Designer', id: 1207744923
+mas 'The Unarchiver', id: 425424353
